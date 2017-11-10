@@ -1,0 +1,11 @@
+
+body { background-color: gray; } 
+
+div#login { background-color: white; 
+      padding: 1em;
+      margin-top: 3em;
+}
+.help-block.error{
+	color: red;
+}
+
